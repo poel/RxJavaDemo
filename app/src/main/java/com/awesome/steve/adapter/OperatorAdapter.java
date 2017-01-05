@@ -7,6 +7,7 @@ import android.view.ViewGroup;
 
 import com.awesome.steve.R;
 import com.awesome.steve.adapter.viewholder.OperatorViewholder;
+import com.awesome.steve.callback.OperatorItemClickListener;
 import com.awesome.steve.operator.Operator;
 
 import java.lang.ref.WeakReference;
@@ -17,17 +18,19 @@ import java.util.ArrayList;
  *
  * @author Steve
  */
-
 public class OperatorAdapter extends RecyclerView.Adapter<OperatorViewholder> {
     private WeakReference<Context> contextRef;
     private ArrayList<Operator> operators;
     private LayoutInflater inflater;
+    private OperatorItemClickListener itemClickListener;
 
     public OperatorAdapter(WeakReference<Context> contextRef,
-                           ArrayList<Operator> operators) {
+                           ArrayList<Operator> operators,
+                           OperatorItemClickListener itemClickListener) {
         this.contextRef = contextRef;
         this.operators = operators;
         this.inflater = LayoutInflater.from(contextRef.get());
+        this.itemClickListener = itemClickListener;
     }
 
     @Override
@@ -37,7 +40,7 @@ public class OperatorAdapter extends RecyclerView.Adapter<OperatorViewholder> {
 
     @Override
     public void onBindViewHolder(OperatorViewholder holder, int position) {
-        holder.bindata(operators.get(position));
+        holder.bindata(operators.get(position), itemClickListener);
     }
 
     @Override

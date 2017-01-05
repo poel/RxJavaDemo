@@ -7,8 +7,11 @@ import android.support.v7.widget.RecyclerView;
 import android.widget.TextView;
 
 import com.awesome.steve.adapter.OperatorAdapter;
+import com.awesome.steve.operator.Create;
 import com.awesome.steve.operator.Just;
 import com.awesome.steve.operator.Operator;
+import com.awesome.steve.operator.Range;
+import com.awesome.steve.operator.Repeat;
 
 import java.lang.ref.WeakReference;
 import java.util.ArrayList;
@@ -35,9 +38,15 @@ public class MainActivity extends AppCompatActivity {
 
         ArrayList<Operator> operators = new ArrayList<Operator>() {{
             add(new Just());
+            add(new Range());
+            add(new Repeat());
+            add(new Create());
         }};
 
-        adapter = new OperatorAdapter(new WeakReference<>(this), operators);
+        adapter = new OperatorAdapter(new WeakReference<>(this),
+                operators,
+                o -> o.getObservable()
+                        .subscribe(s -> System.out.println(s)));
         opetators.setAdapter(adapter);
     }
 }

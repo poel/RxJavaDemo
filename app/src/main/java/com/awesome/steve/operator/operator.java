@@ -1,5 +1,7 @@
 package com.awesome.steve.operator;
 
+import rx.Observable;
+
 /**
  * Created by Steve on 2017/1/5.
  * @author Steve
@@ -7,11 +9,16 @@ package com.awesome.steve.operator;
 public class Operator {
     private String name;
 
-    public Operator(String name) {
-        this.name = name;
+    public Operator() {
+        /**
+         * Get the class exclude pacakge name
+         * */
+        this.name = this.getClass().getName().substring(this.getClass().getName().lastIndexOf(".") + 1);
     }
 
-    public void excute() {}
+    public Observable getObservable() {
+        return null;
+    }
 
     public String getName() {
         return name;

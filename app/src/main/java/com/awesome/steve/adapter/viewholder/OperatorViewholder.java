@@ -6,6 +6,7 @@ import android.view.View;
 import android.widget.TextView;
 
 import com.awesome.steve.R;
+import com.awesome.steve.callback.OperatorItemClickListener;
 import com.awesome.steve.operator.Operator;
 
 import butterknife.BindView;
@@ -13,6 +14,7 @@ import butterknife.ButterKnife;
 
 /**
  * Created by Steve on 2017/1/5.
+ *
  * @author Steve
  */
 public class OperatorViewholder extends RecyclerView.ViewHolder {
@@ -24,13 +26,10 @@ public class OperatorViewholder extends RecyclerView.ViewHolder {
         ButterKnife.bind(this, itemView);
     }
 
-    public void bindata(@NonNull final Operator operator) {
+    public void bindata(@NonNull final Operator operator, OperatorItemClickListener itemClickListener) {
         operatorName.setText(operator.getName());
-        itemView.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                operator.excute();
-            }
-        });
+        itemView.setOnClickListener(
+                view -> itemClickListener.onItemClicked(operator)
+        );
     }
 }
