@@ -2,148 +2,148 @@
 <items version="2" >
 
     <item
-        jar="/Users/Steve/Documents/miracle/hawey/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jar="/Users/Steve/Documents/AndroidProject/RxJavaDemo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         revision="24.0.0"
-        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="/Users/Steve/Documents/miracle/hawey/MyApplication/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-eba8ee0d5e9027df04bb64eebdd782e1d689d8e1.jar" />
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/Steve/Documents/AndroidProject/RxJavaDemo/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/internal_impl-24.2.1-fa0adf24f4862d5a15bafe1464a94fde33dc9141.jar" />
     </item>
     <item
-        jar="/Users/Steve/Documents/miracle/hawey/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
-        revision="24.0.0"
-        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="/Users/Steve/Documents/miracle/hawey/MyApplication/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-14c86e70c0148f3f2679b4adf17f72b521006a96.jar" />
-    </item>
-    <item
-        jar="/Users/Steve/Documents/miracle/hawey/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jar="/Users/Steve/Documents/AndroidProject/RxJavaDemo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
         revision="24.0.0"
         sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="/Users/Steve/Documents/miracle/hawey/MyApplication/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-a319d5b939de34905c7c5f95971f17056524043b.jar" />
+        <dex dex="/Users/Steve/Documents/AndroidProject/RxJavaDemo/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-590a59609f55a734237355c1f549d5def406cf1d.jar" />
     </item>
     <item
-        jar="/Users/Steve/Documents/miracle/hawey/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jar="/Users/Steve/Documents/AndroidProject/RxJavaDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
         revision="24.0.0"
-        sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="/Users/Steve/Documents/miracle/hawey/MyApplication/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/internal_impl-24.2.1-8b7dd7056aece351272715ca6b960d9a27b88d48.jar" />
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/Steve/Documents/AndroidProject/RxJavaDemo/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-8b3afc189dd82fc9a42709ce0e7cff3b44da90b1.jar" />
     </item>
     <item
-        jar="/Users/Steve/Documents/miracle/hawey/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jar="/Users/Steve/Documents/AndroidProject/RxJavaDemo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        revision="24.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/Steve/Documents/AndroidProject/RxJavaDemo/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/internal_impl-24.2.1-54c4c19307b8b612ac86850051f3013fa6251a64.jar" />
+    </item>
+    <item
+        jar="/Users/Steve/Documents/AndroidProject/RxJavaDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        revision="24.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/Steve/Documents/AndroidProject/RxJavaDemo/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-208c3e7279015f29935ee3024911879539023bd0.jar" />
+    </item>
+    <item
+        jar="/Users/Steve/Documents/AndroidProject/RxJavaDemo/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         revision="24.0.0"
         sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="/Users/Steve/Documents/miracle/hawey/MyApplication/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/internal_impl-24.2.1-97e833238d60e3da7ab0b73767ec9ead79213c45.jar" />
+        <dex dex="/Users/Steve/Documents/AndroidProject/RxJavaDemo/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/internal_impl-24.2.1-6cc2bfb02a56c55e8b2f6e0978f6216280d32939.jar" />
     </item>
     <item
         jar="/Users/Steve/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.2.4/522cfb00b6c015b72c64ee60054b4f6338880858/rxjava-1.2.4.jar"
         revision="24.0.0"
         sha1="522cfb00b6c015b72c64ee60054b4f6338880858">
-        <dex dex="/Users/Steve/Documents/miracle/hawey/MyApplication/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/rxjava-1.2.4-c9448ba13099c752fb016ec676ec99d36e472966.jar" />
+        <dex dex="/Users/Steve/Documents/AndroidProject/RxJavaDemo/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/rxjava-1.2.4-c9448ba13099c752fb016ec676ec99d36e472966.jar" />
     </item>
     <item
-        jar="/Users/Steve/Documents/miracle/hawey/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jar="/Users/Steve/Documents/AndroidProject/RxJavaDemo/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
         revision="24.0.0"
-        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="/Users/Steve/Documents/miracle/hawey/MyApplication/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-d61db42f2de183befdb5d3704468a86b2206279e.jar" />
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/Steve/Documents/AndroidProject/RxJavaDemo/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-21021970a40698b0733e79f06376453b445e7f0c.jar" />
     </item>
     <item
-        jar="/Users/Steve/Documents/miracle/hawey/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jar="/Users/Steve/Documents/AndroidProject/RxJavaDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         revision="24.0.0"
         sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="/Users/Steve/Documents/miracle/hawey/MyApplication/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/internal_impl-24.2.1-39a096e535fd7e091a9c6df0f3e633c15215d6f2.jar" />
+        <dex dex="/Users/Steve/Documents/AndroidProject/RxJavaDemo/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/internal_impl-24.2.1-53aa662d4047cbb11c1a72958f07573d456eef15.jar" />
     </item>
     <item
-        jar="/Users/Steve/Documents/miracle/hawey/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jar="/Users/Steve/Documents/AndroidProject/RxJavaDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
         revision="24.0.0"
-        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="/Users/Steve/Documents/miracle/hawey/MyApplication/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/internal_impl-24.2.1-25db6c0857baf7cde9b25906c926e241db8e0261.jar" />
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Steve/Documents/AndroidProject/RxJavaDemo/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-114393a1610a02ead12ca5341883affb7329fbd9.jar" />
     </item>
     <item
-        jar="/Users/Steve/Documents/miracle/hawey/MyApplication/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jar="/Users/Steve/Documents/AndroidProject/RxJavaDemo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        revision="24.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/Steve/Documents/AndroidProject/RxJavaDemo/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-cb3071e2b468836b28b36ae28537d1ab21834021.jar" />
+    </item>
+    <item
+        jar="/Users/Steve/Documents/AndroidProject/RxJavaDemo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
         revision="24.0.0"
         sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="/Users/Steve/Documents/miracle/hawey/MyApplication/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-70b32cce1b6c2cc529dd1c4988c200b647d65a6e.jar" />
+        <dex dex="/Users/Steve/Documents/AndroidProject/RxJavaDemo/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-9baba41618af2ea05abf3a965c3c6a72a857c503.jar" />
     </item>
     <item
         jar="/Users/Steve/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.1.0/d6854f42bfb4098d3d2358d93201307b9f1cc95d/butterknife-annotations-8.1.0.jar"
         revision="24.0.0"
         sha1="d6854f42bfb4098d3d2358d93201307b9f1cc95d">
-        <dex dex="/Users/Steve/Documents/miracle/hawey/MyApplication/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/butterknife-annotations-8.1.0-9164c5f256d426d7c560ca93923d50022025c7aa.jar" />
+        <dex dex="/Users/Steve/Documents/AndroidProject/RxJavaDemo/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/butterknife-annotations-8.1.0-9164c5f256d426d7c560ca93923d50022025c7aa.jar" />
+    </item>
+    <item
+        jar="/Users/Steve/Documents/AndroidProject/RxJavaDemo/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-alpha1/jars/classes.jar"
+        revision="24.0.0"
+        sha1="ea579447f9afb1fbcb28e150e1cd4bfe7f56e75b">
+        <dex dex="/Users/Steve/Documents/AndroidProject/RxJavaDemo/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-9932e679ccf7066547b6fcf27ec1954930a5e5e2.jar" />
     </item>
     <item
         jar="/Users/Steve/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
         revision="24.0.0"
         sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
-        <dex dex="/Users/Steve/Documents/miracle/hawey/MyApplication/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/okhttp-3.4.1-ed64a79262e29f4511c069778d92bc1ee5b50fbe.jar" />
+        <dex dex="/Users/Steve/Documents/AndroidProject/RxJavaDemo/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/okhttp-3.4.1-ed64a79262e29f4511c069778d92bc1ee5b50fbe.jar" />
     </item>
     <item
         jar="/Users/Steve/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
         revision="24.0.0"
         sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
-        <dex dex="/Users/Steve/Documents/miracle/hawey/MyApplication/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/okio-1.9.0-ae1e0cf921d979370708b48c55435675f007d062.jar" />
+        <dex dex="/Users/Steve/Documents/AndroidProject/RxJavaDemo/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/okio-1.9.0-ae1e0cf921d979370708b48c55435675f007d062.jar" />
     </item>
     <item
-        jar="/Users/Steve/Documents/miracle/hawey/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
-        revision="24.0.0"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/Steve/Documents/miracle/hawey/MyApplication/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-4861d39c223d2bd563fe276c2055e8720ae6759a.jar" />
-    </item>
-    <item
-        jar="/Users/Steve/Documents/miracle/hawey/MyApplication/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.1.0/jars/classes.jar"
-        revision="24.0.0"
-        sha1="d4ab8678882571a0a6f19c47a826ecbce5b4f42b">
-        <dex dex="/Users/Steve/Documents/miracle/hawey/MyApplication/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-269136e0f2b6dbfc5453858d8f7600c837e18d82.jar" />
-    </item>
-    <item
-        jar="/Users/Steve/Documents/miracle/hawey/MyApplication/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
-        revision="24.0.0"
-        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="/Users/Steve/Documents/miracle/hawey/MyApplication/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-16c4a35ced66a4226024c80e177471f2ba1f2d17.jar" />
-    </item>
-    <item
-        jar="/Users/Steve/Documents/miracle/hawey/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jar="/Users/Steve/Documents/AndroidProject/RxJavaDemo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
         revision="24.0.0"
         sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="/Users/Steve/Documents/miracle/hawey/MyApplication/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-ff155aa5150f125f96193ffe813ed8d979f487f0.jar" />
+        <dex dex="/Users/Steve/Documents/AndroidProject/RxJavaDemo/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-7ae51bfe8c90b5a0b40e79d51ed142a29800f00c.jar" />
     </item>
     <item
-        jar="/Users/Steve/Documents/miracle/hawey/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jar="/Users/Steve/Documents/AndroidProject/RxJavaDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
         revision="24.0.0"
-        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="/Users/Steve/Documents/miracle/hawey/MyApplication/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-4d18f494b867e5b35f89df3588671aa0bba5becc.jar" />
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/Steve/Documents/AndroidProject/RxJavaDemo/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-c3b0d8bc885b195686cdaeab10bf483342bc4825.jar" />
     </item>
     <item
         jar="/Users/Steve/Library/Android/sdk/extras/android/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-alpha1/constraint-layout-solver-1.0.0-alpha1.jar"
         revision="24.0.0"
         sha1="78d61c347aa5002119e3c17bffcbebf28fe07b0b">
-        <dex dex="/Users/Steve/Documents/miracle/hawey/MyApplication/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/constraint-layout-solver-1.0.0-alpha1-56efb1fcd0c85fa01b6900a17c864d3e8d2e4823.jar" />
+        <dex dex="/Users/Steve/Documents/AndroidProject/RxJavaDemo/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/constraint-layout-solver-1.0.0-alpha1-56efb1fcd0c85fa01b6900a17c864d3e8d2e4823.jar" />
     </item>
     <item
         jar="/Users/Steve/Library/Android/sdk/platforms/android-24/android.jar"
         revision="24.0.0"
         sha1="1311cbfaf9f46b5700b213534bccdc789794b057">
-        <dex dex="/Users/Steve/Documents/miracle/hawey/MyApplication/app/build/intermediates/transforms/preJackRuntimeLibraries/debug/jars/8000/40/android-026514f968cb3970fefca5cde8a5bcea55bfa8d8.jar" />
+        <dex dex="/Users/Steve/Documents/AndroidProject/RxJavaDemo/app/build/intermediates/transforms/preJackRuntimeLibraries/debug/jars/8000/40/android-026514f968cb3970fefca5cde8a5bcea55bfa8d8.jar" />
     </item>
     <item
-        jar="/Users/Steve/Documents/miracle/hawey/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jar="/Users/Steve/Documents/AndroidProject/RxJavaDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         revision="24.0.0"
-        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="/Users/Steve/Documents/miracle/hawey/MyApplication/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/internal_impl-24.2.1-ab001d8c7864e4fc13918c1b9050e453f7cd5481.jar" />
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/Steve/Documents/AndroidProject/RxJavaDemo/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/internal_impl-24.2.1-038df48c57ea45d802380aa36a1199c6987e6559.jar" />
     </item>
     <item
         jar="/Users/Steve/Library/Android/sdk/platforms/android-24/optional/org.apache.http.legacy.jar"
         revision="24.0.0"
         sha1="b633f2991f9d792d29d23312229f27850f519544">
-        <dex dex="/Users/Steve/Documents/miracle/hawey/MyApplication/app/build/intermediates/transforms/preJackRuntimeLibraries/debug/jars/8000/40/org.apache.http.legacy-c29cae900f3df363b1c7adf2f9713d8a68797970.jar" />
+        <dex dex="/Users/Steve/Documents/AndroidProject/RxJavaDemo/app/build/intermediates/transforms/preJackRuntimeLibraries/debug/jars/8000/40/org.apache.http.legacy-c29cae900f3df363b1c7adf2f9713d8a68797970.jar" />
     </item>
     <item
         jar="/Users/Steve/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
         revision="24.0.0"
         sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="/Users/Steve/Documents/miracle/hawey/MyApplication/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/support-annotations-24.2.1-30c775220434bf6b747ebc03a71c93ebd797a304.jar" />
+        <dex dex="/Users/Steve/Documents/AndroidProject/RxJavaDemo/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/support-annotations-24.2.1-30c775220434bf6b747ebc03a71c93ebd797a304.jar" />
     </item>
     <item
-        jar="/Users/Steve/Documents/miracle/hawey/MyApplication/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-alpha1/jars/classes.jar"
+        jar="/Users/Steve/Documents/AndroidProject/RxJavaDemo/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.1.0/jars/classes.jar"
         revision="24.0.0"
-        sha1="ea579447f9afb1fbcb28e150e1cd4bfe7f56e75b">
-        <dex dex="/Users/Steve/Documents/miracle/hawey/MyApplication/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-e80394346ec9629013fdd89dc695264be19ef89c.jar" />
+        sha1="d4ab8678882571a0a6f19c47a826ecbce5b4f42b">
+        <dex dex="/Users/Steve/Documents/AndroidProject/RxJavaDemo/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-3985cc1e35aaec16d8e04aec06f15893e85d927f.jar" />
     </item>
 
 </items>

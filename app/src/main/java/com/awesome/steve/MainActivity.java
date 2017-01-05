@@ -24,7 +24,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     ConstraintLayout activityMain;
 
     Observable<String> myObservable;
-    Subscriber<String> mySubscriber;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
