@@ -1,29 +1,29 @@
 package com.awesome.steve;
 
 import android.os.Bundle;
-import android.support.constraint.ConstraintLayout;
 import android.support.v7.app.AppCompatActivity;
-import android.view.View;
-import android.widget.Button;
+import android.support.v7.widget.LinearLayoutManager;
+import android.support.v7.widget.RecyclerView;
 import android.widget.TextView;
+
+import com.awesome.steve.adapter.OperatorAdapter;
+import com.awesome.steve.operator.Just;
+import com.awesome.steve.operator.Operator;
+
+import java.lang.ref.WeakReference;
+import java.util.ArrayList;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;
-import okhttp3.MediaType;
-import rx.Observable;
-import rx.Subscriber;
 
-public class MainActivity extends AppCompatActivity implements View.OnClickListener {
+public class MainActivity extends AppCompatActivity {
 
-    public static final MediaType JSON = MediaType.parse("application/json; charset=utf-8");
-    @BindView(R.id.button)
-    Button button;
     @BindView(R.id.textView)
     TextView textView;
-    @BindView(R.id.activity_main)
-    ConstraintLayout activityMain;
+    @BindView(R.id.opetators)
+    RecyclerView opetators;
 
-    Observable<String> myObservable;
+    OperatorAdapter adapter;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -31,18 +31,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         setContentView(R.layout.activity_main);
         ButterKnife.bind(this);
 
-        myObservable = Observable.just("Hello, World!");
-        button.setOnClickListener(this);
-    }
+        opetators.setLayoutManager(new LinearLayoutManager(this, LinearLayoutManager.VERTICAL, false));
 
-    private void init() {
-        myObservable.just("Hello, World!")
-                .map(s -> s + "-Dan")
-                .subscribe(s -> System.out.println(s));
-    }
+        ArrayList<Operator> operators = new ArrayList<Operator>() {{
+            add(new Just());
+        }};
 
-    @Override
-    public void onClick(View v) {
-        init();
+        adapter = new OperatorAdapter(new WeakReference<>(this), operators);
+        opetators.setAdapter(adapter);
     }
 }
